@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed40fdea-e328-4375-a5a3-66ff661af3b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/react/promise-timer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/vendor/ratchet/rfc6455" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/vendor/cboden/ratchet" />
+      <path value="$PROJECT_DIR$/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/vendor/react/stream" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1koA2k2OsVVWrR9r0FWRJknzwtJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/javascript" />
+      <recent name="$PROJECT_DIR$/php" />
+      <recent name="$PROJECT_DIR$/attachments" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bin" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed40fdea-e328-4375-a5a3-66ff661af3b4" name="Default Changelist" comment="" />
+      <created>1606356365370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606356365370</updated>
+      <workItem from="1606356366416" duration="9246000" />
+      <workItem from="1606367409998" duration="176000" />
+      <workItem from="1606514534263" duration="19000" />
+      <workItem from="1606514867483" duration="338000" />
+      <workItem from="1606523324567" duration="11000" />
+      <workItem from="1606523345756" duration="10000" />
+      <workItem from="1606527272327" duration="9314000" />
+      <workItem from="1606599996489" duration="20925000" />
+      <workItem from="1606629723302" duration="939000" />
+      <workItem from="1606689695449" duration="9581000" />
+      <workItem from="1606702195088" duration="94000" />
+      <workItem from="1606707318312" duration="1573000" />
+      <workItem from="1606709801734" duration="3562000" />
+      <workItem from="1606713694682" duration="13000" />
+      <workItem from="1606714872126" duration="594000" />
+      <workItem from="1606772137890" duration="4000" />
+      <workItem from="1606797202067" duration="198000" />
+      <workItem from="1606797578975" duration="5000" />
+      <workItem from="1606852730162" duration="364000" />
+      <workItem from="1606868763409" duration="24000" />
+      <workItem from="1607053046845" duration="1379000" />
+      <workItem from="1607057725828" duration="3000" />
+      <workItem from="1607060116136" duration="1186000" />
+      <workItem from="1607125021175" duration="39000" />
+      <workItem from="1607133118799" duration="12104000" />
+      <workItem from="1607222647905" duration="13797000" />
+      <workItem from="1607651025575" duration="12000" />
+      <workItem from="1607661412783" duration="13295000" />
+      <workItem from="1607730641960" duration="4262000" />
+      <workItem from="1607737121875" duration="2956000" />
+      <workItem from="1607744289491" duration="240000" />
+      <workItem from="1607744592634" duration="41000" />
+      <workItem from="1607745214720" duration="10668000" />
+      <workItem from="1607817230043" duration="9000" />
+      <workItem from="1607892942671" duration="11153000" />
+      <workItem from="1607908432997" duration="80000" />
+      <workItem from="1607977173569" duration="3190000" />
+      <workItem from="1607983558228" duration="1198000" />
+      <workItem from="1607984772241" duration="184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2881" y="357" width="700" height="759" key="#PHP" timestamp="1606357853368">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2881" y="357" width="700" height="759" key="#PHP/1920.0.2560.1440/0.232.1920.1080@1920.0.2560.1440" timestamp="1606357853368" />
+    <state x="2901" y="535" width="660" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607133340723">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2901" y="535" width="660" height="403" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.2560.1440/0.232.1920.1080@1920.0.2560.1440" timestamp="1607133340723" />
+    <state x="2850" y="373" width="762" height="728" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607750179349">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2850" y="373" width="762" height="728" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.2560.1440/0.232.1920.1080@1920.0.2560.1440" timestamp="1607750179349" />
+    <state x="2900" y="342" key="run.anything.popup" timestamp="1607908251863">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2900" y="342" key="run.anything.popup/1920.0.2560.1440/0.232.1920.1080@1920.0.2560.1440" timestamp="1607908251863" />
+    <state x="2645" y="356" width="672" height="678" key="search.everywhere.popup" timestamp="1607901344084">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2645" y="356" width="672" height="678" key="search.everywhere.popup/1920.0.2560.1440/0.232.1920.1080@1920.0.2560.1440" timestamp="1607901344084" />
+    <state x="1084" y="662" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1607977378275">
+      <screen x="72" y="27" width="2488" height="1413" />
+    </state>
+    <state x="2961" y="647" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.0.2560.1440/0.232.1920.1080@1920.0.2560.1440" timestamp="1607731190549" />
+    <state x="1084" y="662" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/72.27.2488.1413@72.27.2488.1413" timestamp="1607977378275" />
+  </component>
+</project>

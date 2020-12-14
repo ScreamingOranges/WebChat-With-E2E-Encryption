@@ -1,0 +1,62 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    height: 100%;
+    background-color: #5F9EA0;
+}
+
+.logginDiv{
+    display: -ms-flexbox;   /* TWEENER - IE 10 */
+    display: -webkit-box;   /* OLD - iOS 6-, Safari 3.1-6 */
+    display: flex;          /* NEW, Spec - Opera 12.1, Firefox 20+ */
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    align-items: center;
+    /*padding-top: 100px;
+    padding-bottom: 200px;*/
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+
+.form-signin {
+    color:white;
+    width: 100%;
+    max-width: 350px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.form-signin .checkbox {
+    font-weight: 400;
+}
+.form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+.form-signin input[type="ID"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+span {
+    display: inline-block;
+    margin: 6px;
+    background-color:rgba(192,192,192,0.4);
+}

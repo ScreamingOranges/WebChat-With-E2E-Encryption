@@ -1,0 +1,24 @@
+html,body{
+    background: #808080;
+}
+.col-md-4{
+    height: 820px;
+    background: #ffffff;
+}
+.col-md-8{
+    height: 820px;
+    background: #ffffff;
+}
+#messages {
+    height: 600px;
+    background: whitesmoke;
+    overflow: auto;
+}
+#chat-room-frm {
+    margin-top: 10px;
+
+}
+#msg{
+    resize:none;
+    overflow:auto;
+}
